@@ -1,0 +1,8 @@
+RCNN:
+==========
+  Abstract:
+    1. 对region proposal使用卷积网络。
+    2. 训练数据少，通过fine-tuning来提升性能。
+  Introduction:
+    
+  
